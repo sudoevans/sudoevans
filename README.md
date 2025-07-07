@@ -1,7 +1,6 @@
 <!-- <p align="center"><img src="https://github.com/gamer-snave/gamer-snave/blob/main/pickle_cropped.svg"  /></p> -->
 <a href="#"><img src="https://img.shields.io/badge/sudoevans-Super%20User-green"></a>
 
-## Spotify Now Playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ovn123icu5osup05w2iryzac9&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
