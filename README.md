@@ -5,6 +5,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ovn123icu5osup05w2iryzac9&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 [![committers.top badge](https://user-badge.committers.top/kenya_public/sudoevans.svg)](https://user-badge.committers.top/kenya_public/sudoevans)
+
 [![committers.top badge](https://user-badge.committers.top/kenya/sudoevans.svg)](https://user-badge.committers.top/kenya/sudoevans)
 
 
